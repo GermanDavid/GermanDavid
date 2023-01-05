@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GermanDavid
-- 👀 I’m interested in AI, NN, CV, NLP, and ROBOTS
-- 🌱 I’m currently working as Algorithm develop at RoboDeck. and learning Master of Science in Computer Science
-- 💞️ I’m looking to collaborate on AI / ML projects
-- 📫 How to reach me: david@robo-deck.com
+- 🌱 I’m currently Master's student in Computer Science
+- 👀 I’m interested in CV, and xAI
+- 💞️ I’m looking to collaborate on xAI research projects
+- 📫 How to reach me: david.german@post.runi.ac.il
 
 <!---
 GermanDavid/GermanDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

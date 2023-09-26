@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GermanDavid
 - 🌱 I’m currently Master's student in Computer Science
-- 👀 I’m interested in CV, and xAI
-- 💞️ I’m looking to collaborate on xAI research projects
+- 👀 I’m interested in computer vision
 - 📫 How to reach me: david.german@post.runi.ac.il
 
 <!---
